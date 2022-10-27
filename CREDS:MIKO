@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MajuNuko/PUBLICTY/main/ROBLOX%20FPS%20GUI%20WORKS%20ON%20ANY%20TEAM%20BASED%20GAMES/works%20on/Murder%20Mystery%202.%20Jailbreak.%20Arsenal./JailBird/Any%20Gun%20type%20games/teambased/Works*/2022./luckyfind/if%20u%20find%20this/W/main%20this%20shitt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MajuNuko/PUBLICTY/main/ROBLOX%20FPS%20GUI%20WORKS%20ON%20ANY%20TEAM%20BASED%20GAMES/works%20on/Murder%20Mystery%202.%20Jailbreak.%20Arsenal./JailBird/Any%20Gun%20type%20games/teambased/Works*/2022./luckyfind/if%20u%20find%20this/W/main%20this%20shit"))()
 getgenv().Prediction =  0.145912
 getgenv().AimPart = "HumanoidRootPart"
 getgenv().Key = "e"
